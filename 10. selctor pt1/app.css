@@ -1,0 +1,25 @@
+* {
+  border: 0px;
+  margin: 0px;
+}
+
+input[type="number"] {
+  color: red;
+  font-size: larger;
+  text-transform: uppercase;
+}
+
+a[href*="wiki"] {
+  text-decoration: none;
+  color: brown;
+}
+
+a[href^="#"] {
+  text-decoration: dotted;
+  color: gray;
+}
+
+a[href$="com"] {
+  text-decoration: wavy;
+  color: green;
+}
