@@ -24,6 +24,6 @@ a[href$="com"] {
   color: green;
 }
 
-li span {
+#cast span {
   color: gray;
 }
