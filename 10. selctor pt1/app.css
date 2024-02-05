@@ -27,3 +27,7 @@ a[href$="com"] {
 #cast span {
   color: gray;
 }
+
+ol > li {
+  border: 1px solid orange;
+}
