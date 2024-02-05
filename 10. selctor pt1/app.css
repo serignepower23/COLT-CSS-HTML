@@ -23,3 +23,7 @@ a[href$="com"] {
   text-decoration: wavy;
   color: green;
 }
+
+li span {
+  color: gray;
+}
